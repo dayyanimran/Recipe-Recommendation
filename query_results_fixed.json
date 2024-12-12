@@ -1,0 +1,2604 @@
+[
+    {
+        "Query": [
+            "milk",
+            "flour",
+            "ginger"
+        ],
+        "Suggested Ingredients": [],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Fried Ginger",
+                "Match Score (%)": 66.67,
+                "Ingredients": "ginger, flour, olive oil, spinach",
+                "Dietary Filters": "Vegetarian, Vegan"
+            },
+            {
+                "Recipe Name": "Cucumber Soup",
+                "Match Score (%)": 66.67,
+                "Ingredients": "cucumber, ginger, flour, soy sauce",
+                "Dietary Filters": "Vegetarian, Vegan"
+            },
+            {
+                "Recipe Name": "Milk Salad",
+                "Match Score (%)": 66.67,
+                "Ingredients": "milk, bell pepper, onion, ginger",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Ginger",
+                "Match Score (%)": 66.67,
+                "Ingredients": "ginger, carrot, milk, pasta",
+                "Dietary Filters": "Vegetarian"
+            },
+            {
+                "Recipe Name": "Cucumber and Milk",
+                "Match Score (%)": 66.67,
+                "Ingredients": "cucumber, milk, tomato, ginger",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": null,
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Avocado Chicken",
+                "Ingredients": "avocado, basil, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "lentils",
+            "rice",
+            "avocado"
+        ],
+        "Suggested Ingredients": [
+            "tofu",
+            "carrot",
+            "spinach"
+        ],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Lentils Pasta",
+                "Match Score (%)": 66.67,
+                "Ingredients": "lentils, carrot, avocado, basil",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Tofu",
+                "Match Score (%)": 66.67,
+                "Ingredients": "tofu, rice, basil, avocado",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Rice Salad",
+                "Match Score (%)": 66.67,
+                "Ingredients": "rice, chickpeas, egg, lentils",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Tomato Rice",
+                "Match Score (%)": 66.67,
+                "Ingredients": "rice, tomato, spinach, lentils",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Soy Sauce Salad",
+                "Match Score (%)": 66.67,
+                "Ingredients": "soy sauce, garlic, lentils, avocado",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": {
+            "Recipe Name": "Tofu",
+            "Match Score (%)": 75.0,
+            "Ingredients": "tofu, rice, basil, avocado",
+            "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+        },
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Broccoli Sandwich",
+                "Ingredients": "broccoli, garlic, basil, olive oil",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "pasta",
+            "potato",
+            "beef"
+        ],
+        "Suggested Ingredients": [
+            "flour",
+            "olive oil",
+            "cheese"
+        ],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Pasta Sandwich",
+                "Match Score (%)": 66.67,
+                "Ingredients": "pasta, lentils, cheese, potato",
+                "Dietary Filters": "Vegetarian"
+            },
+            {
+                "Recipe Name": "Beef and Potatoes",
+                "Match Score (%)": 66.67,
+                "Ingredients": "beef, potato, spinach, onion",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Pasta Soup",
+                "Match Score (%)": 66.67,
+                "Ingredients": "pasta, beef, cucumber, tofu",
+                "Dietary Filters": null
+            },
+            {
+                "Recipe Name": "Beef Soup",
+                "Match Score (%)": 33.33,
+                "Ingredients": "beef, garlic, spinach, lemon",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Cheese n Chicken Pasta",
+                "Match Score (%)": 33.33,
+                "Ingredients": "pasta, cheese, chicken, avocado",
+                "Dietary Filters": null
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": {
+            "Recipe Name": "Flour Soup",
+            "Match Score (%)": 50.0,
+            "Ingredients": "flour, pasta, rice, tofu",
+            "Dietary Filters": "Vegetarian, Vegan"
+        },
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Avocado Chicken",
+                "Ingredients": "avocado, basil, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "carrot",
+            "quinoa",
+            "soy sauce"
+        ],
+        "Suggested Ingredients": [
+            "lemon",
+            "avocado",
+            "chickpeas"
+        ],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Quinoa Stew",
+                "Match Score (%)": 66.67,
+                "Ingredients": "quinoa, basil, lentils, soy sauce",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Carrot Pasta",
+                "Match Score (%)": 66.67,
+                "Ingredients": "olive oil, egg, soy sauce, carrot",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Cheese Platter",
+                "Match Score (%)": 33.33,
+                "Ingredients": "cheese, basil, spinach, soy sauce",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Garlic Curry",
+                "Match Score (%)": 33.33,
+                "Ingredients": "garlic, quinoa, butter, avocado",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Quinoa Stir-Fry",
+                "Match Score (%)": 33.33,
+                "Ingredients": "quinoa, basil, lentils, pasta",
+                "Dietary Filters": "Vegetarian, Vegan"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": {
+            "Recipe Name": "Sweet Potato",
+            "Match Score (%)": 50.0,
+            "Ingredients": "sugar, quinoa, lemon, potato",
+            "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+        },
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Broccoli Sandwich",
+                "Ingredients": "broccoli, garlic, basil, olive oil",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "chickpeas",
+            "egg",
+            "broccoli"
+        ],
+        "Suggested Ingredients": [],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Spinach Sandwich",
+                "Match Score (%)": 66.67,
+                "Ingredients": "spinach, tomato, chickpeas, egg",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Broccoli Sandwich",
+                "Match Score (%)": 66.67,
+                "Ingredients": "broccoli, butter, chickpeas, beef",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Rice Salad",
+                "Match Score (%)": 66.67,
+                "Ingredients": "rice, chickpeas, egg, lentils",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Spinach Curry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "spinach, egg, broccoli, lemon",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Broccoli with Meat",
+                "Match Score (%)": 66.67,
+                "Ingredients": "broccoli, chicken, beef, chickpeas",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": null,
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Avocado Chicken",
+                "Ingredients": "avocado, basil, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "tofu",
+            "basil",
+            "sugar"
+        ],
+        "Suggested Ingredients": [],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Tofu",
+                "Match Score (%)": 66.67,
+                "Ingredients": "tofu, rice, basil, avocado",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Basil Stir-Fry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "basil, tofu, butter, cucumber",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Tofu Sandwich",
+                "Match Score (%)": 66.67,
+                "Ingredients": "tofu, egg, sugar, flour",
+                "Dietary Filters": "Vegetarian"
+            },
+            {
+                "Recipe Name": "Baked Sugar",
+                "Match Score (%)": 66.67,
+                "Ingredients": "sugar, bell pepper, lemon, tofu",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Milk Soup",
+                "Match Score (%)": 66.67,
+                "Ingredients": "milk, garlic, tofu, sugar",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": null,
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Cheese n Chicken Pasta",
+                "Ingredients": "pasta, cheese, chicken, avocado",
+                "Dietary Filters": null
+            }
+        ]
+    },
+    {
+        "Query": [
+            "bell pepper",
+            "olive oil",
+            "tomato"
+        ],
+        "Suggested Ingredients": [
+            "basil",
+            "cheese"
+        ],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Ginger Stir-Fry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "ginger, tomato, olive oil, basil",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Tomato Salad",
+                "Match Score (%)": 66.67,
+                "Ingredients": "tomato, quinoa, bell pepper, cucumber",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Bell Pepper Curry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "bell pepper, milk, olive oil, avocado",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Tomato Stir-Fry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "tomato, spinach, olive oil, tofu",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Beef Stir-Fry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "beef, ginger, olive oil, tomato",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": {
+            "Recipe Name": "Ginger Stir-Fry",
+            "Match Score (%)": 75.0,
+            "Ingredients": "ginger, tomato, olive oil, basil",
+            "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+        },
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Avocado Chicken",
+                "Ingredients": "avocado, basil, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "butter",
+            "garlic",
+            "chicken"
+        ],
+        "Suggested Ingredients": [
+            "flour",
+            "potato"
+        ],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Garlic Curry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "garlic, quinoa, butter, avocado",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Avocado Chicken",
+                "Match Score (%)": 33.33,
+                "Ingredients": "avocado, basil, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Basil Stew",
+                "Match Score (%)": 33.33,
+                "Ingredients": "basil, chicken, cucumber, tomato",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Chickpeas Stir-Fry",
+                "Match Score (%)": 33.33,
+                "Ingredients": "chickpeas, basil, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Cheese n Chicken Pasta",
+                "Match Score (%)": 33.33,
+                "Ingredients": "pasta, cheese, chicken, avocado",
+                "Dietary Filters": null
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": {
+            "Recipe Name": "Garlic Rice Stew",
+            "Match Score (%)": 50.0,
+            "Ingredients": "flour, garlic, onion, rice",
+            "Dietary Filters": "Vegetarian, Vegan"
+        },
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Cheese Platter",
+                "Ingredients": "cheese, basil, spinach, soy sauce",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "cheese",
+            "onion",
+            "spinach"
+        ],
+        "Suggested Ingredients": [],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Spinach Stir-Fry",
+                "Match Score (%)": 100.0,
+                "Ingredients": "spinach, onion, cheese, potato",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Cheese Platter",
+                "Match Score (%)": 66.67,
+                "Ingredients": "cheese, basil, spinach, soy sauce",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Baked Bell Pepper",
+                "Match Score (%)": 66.67,
+                "Ingredients": "bell pepper, basil, cheese, onion",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Cheese Stew",
+                "Match Score (%)": 66.67,
+                "Ingredients": "cheese, flour, basil, onion",
+                "Dietary Filters": "Vegetarian"
+            },
+            {
+                "Recipe Name": "Cheese Stir-Fry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "cheese, butter, spinach, beef",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": null,
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Avocado Chicken",
+                "Ingredients": "avocado, basil, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "lemon",
+            "cucumber",
+            "milk"
+        ],
+        "Suggested Ingredients": [],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Baked Lentils",
+                "Match Score (%)": 66.67,
+                "Ingredients": "lentils, cucumber, lemon, chicken",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Milk Salad",
+                "Match Score (%)": 66.67,
+                "Ingredients": "milk, lemon, potato, soy sauce",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Lemon Pasta",
+                "Match Score (%)": 66.67,
+                "Ingredients": "lemon, tofu, cucumber, spinach",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Milk Curry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "milk, carrot, cucumber, spinach",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Rice Stir-Fry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "rice, chicken, lemon, milk",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": null,
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Avocado Chicken",
+                "Ingredients": "avocado, basil, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "rice",
+            "basil",
+            "flour"
+        ],
+        "Suggested Ingredients": [],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Spinach Rice",
+                "Match Score (%)": 66.67,
+                "Ingredients": "olive oil, spinach, rice, basil",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Tofu",
+                "Match Score (%)": 66.67,
+                "Ingredients": "tofu, rice, basil, avocado",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Garden Egg Served",
+                "Match Score (%)": 66.67,
+                "Ingredients": "basil, egg, flour, cheese",
+                "Dietary Filters": "Vegetarian"
+            },
+            {
+                "Recipe Name": "Cheese Stew",
+                "Match Score (%)": 66.67,
+                "Ingredients": "cheese, flour, basil, onion",
+                "Dietary Filters": "Vegetarian"
+            },
+            {
+                "Recipe Name": "Garlic Rice Stew",
+                "Match Score (%)": 66.67,
+                "Ingredients": "flour, garlic, onion, rice",
+                "Dietary Filters": "Vegetarian, Vegan"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": null,
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Cheese n Chicken Pasta",
+                "Ingredients": "pasta, cheese, chicken, avocado",
+                "Dietary Filters": null
+            }
+        ]
+    },
+    {
+        "Query": [
+            "ginger",
+            "beef",
+            "avocado"
+        ],
+        "Suggested Ingredients": [],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Bell Pepper Soup",
+                "Match Score (%)": 66.67,
+                "Ingredients": "bell pepper, broccoli, ginger, beef",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Sugar Pasta",
+                "Match Score (%)": 66.67,
+                "Ingredients": "sugar, avocado, beef, spinach",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Vegetarian Baked Onion",
+                "Match Score (%)": 66.67,
+                "Ingredients": "onion, avocado, chickpeas, ginger",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Beef Sandwich",
+                "Match Score (%)": 66.67,
+                "Ingredients": "beef, tofu, lemon, ginger",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Beef Stir-Fry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "beef, ginger, olive oil, tomato",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": null,
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Broccoli Sandwich",
+                "Ingredients": "broccoli, garlic, basil, olive oil",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "quinoa",
+            "chickpeas",
+            "soy sauce"
+        ],
+        "Suggested Ingredients": [
+            "lemon",
+            "avocado"
+        ],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Chickpeas Stir-Fry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "chickpeas, basil, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Quinoa Stew",
+                "Match Score (%)": 66.67,
+                "Ingredients": "quinoa, basil, lentils, soy sauce",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Cucumber Curry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "cucumber, soy sauce, chickpeas, ginger",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Quinoa",
+                "Match Score (%)": 66.67,
+                "Ingredients": "quinoa, cucumber, chickpeas, potato",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Cheese and Chickpeas",
+                "Match Score (%)": 66.67,
+                "Ingredients": "chickpeas, cheese, lemon, quinoa",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": {
+            "Recipe Name": "Cheese and Chickpeas",
+            "Match Score (%)": 75.0,
+            "Ingredients": "chickpeas, cheese, lemon, quinoa",
+            "Dietary Filters": "Vegetarian, Gluten-Free"
+        },
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Broccoli Sandwich",
+                "Ingredients": "broccoli, garlic, basil, olive oil",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "broccoli",
+            "egg",
+            "potato"
+        ],
+        "Suggested Ingredients": [],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Spinach Curry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "spinach, egg, broccoli, lemon",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Potato Stew",
+                "Match Score (%)": 66.67,
+                "Ingredients": "potato, lentils, broccoli, olive oil",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Garden Egg Served",
+                "Match Score (%)": 33.33,
+                "Ingredients": "basil, egg, flour, cheese",
+                "Dietary Filters": "Vegetarian"
+            },
+            {
+                "Recipe Name": "Sugar Chicken",
+                "Match Score (%)": 33.33,
+                "Ingredients": "chicken, sugar, egg, lemon",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Broccoli Sandwich",
+                "Match Score (%)": 33.33,
+                "Ingredients": "broccoli, garlic, basil, olive oil",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": null,
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Avocado Chicken",
+                "Ingredients": "avocado, basil, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "tofu",
+            "carrot",
+            "bell pepper"
+        ],
+        "Suggested Ingredients": [],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Spinach Pasta",
+                "Match Score (%)": 66.67,
+                "Ingredients": "spinach, lemon, tofu, bell pepper",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Baked Sugar",
+                "Match Score (%)": 66.67,
+                "Ingredients": "sugar, bell pepper, lemon, tofu",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Tofu Salad",
+                "Match Score (%)": 66.67,
+                "Ingredients": "tofu, chickpeas, cheese, carrot",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Avocado Sandwich",
+                "Match Score (%)": 66.67,
+                "Ingredients": "avocado, bell pepper, tofu, cheese",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Cucumber Pasta",
+                "Match Score (%)": 66.67,
+                "Ingredients": "cucumber, bell pepper, carrot, sugar",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": null,
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Avocado Chicken",
+                "Ingredients": "avocado, basil, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "basil",
+            "tomato",
+            "butter"
+        ],
+        "Suggested Ingredients": [
+            "olive oil",
+            "cheese"
+        ],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Basil Stew",
+                "Match Score (%)": 66.67,
+                "Ingredients": "basil, chicken, cucumber, tomato",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Ginger Stir-Fry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "ginger, tomato, olive oil, basil",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Basil Stir-Fry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "basil, tofu, butter, cucumber",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Tomato Stew",
+                "Match Score (%)": 66.67,
+                "Ingredients": "tomato, basil, lentils, egg",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Broccoli Sandwich",
+                "Match Score (%)": 33.33,
+                "Ingredients": "broccoli, garlic, basil, olive oil",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": {
+            "Recipe Name": "Ginger Stir-Fry",
+            "Match Score (%)": 75.0,
+            "Ingredients": "ginger, tomato, olive oil, basil",
+            "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+        },
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Cheese n Chicken Pasta",
+                "Ingredients": "pasta, cheese, chicken, avocado",
+                "Dietary Filters": null
+            }
+        ]
+    },
+    {
+        "Query": [
+            "cheese",
+            "garlic",
+            "cucumber"
+        ],
+        "Suggested Ingredients": [],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Broccoli Pasta",
+                "Match Score (%)": 66.67,
+                "Ingredients": "broccoli, olive oil, cheese, cucumber",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Cheese Curry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "cheese, quinoa, olive oil, cucumber",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Cheese Platter",
+                "Match Score (%)": 33.33,
+                "Ingredients": "cheese, basil, spinach, soy sauce",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Cheese n Chicken Pasta",
+                "Match Score (%)": 33.33,
+                "Ingredients": "pasta, cheese, chicken, avocado",
+                "Dietary Filters": null
+            },
+            {
+                "Recipe Name": "Broccoli Sandwich",
+                "Match Score (%)": 33.33,
+                "Ingredients": "broccoli, garlic, basil, olive oil",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": null,
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Avocado Chicken",
+                "Ingredients": "avocado, basil, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "spinach",
+            "sugar",
+            "onion"
+        ],
+        "Suggested Ingredients": [],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Sugar Pasta",
+                "Match Score (%)": 66.67,
+                "Ingredients": "sugar, avocado, beef, spinach",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Beef and Potatoes",
+                "Match Score (%)": 66.67,
+                "Ingredients": "beef, potato, spinach, onion",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Sugar Spinach Sandwich",
+                "Match Score (%)": 66.67,
+                "Ingredients": "sugar, cucumber, spinach, butter",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Spinach Stir-Fry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "spinach, onion, cheese, potato",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Sugar Chicken Sandwich",
+                "Match Score (%)": 66.67,
+                "Ingredients": "sugar, chicken, sugar, onion",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": null,
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Avocado Chicken",
+                "Ingredients": "avocado, basil, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "chicken",
+            "lemon",
+            "rice"
+        ],
+        "Suggested Ingredients": [
+            "flour",
+            "garlic",
+            "potato"
+        ],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Rice Stir-Fry",
+                "Match Score (%)": 100.0,
+                "Ingredients": "rice, chicken, lemon, milk",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Sugar Chicken",
+                "Match Score (%)": 66.67,
+                "Ingredients": "chicken, sugar, egg, lemon",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Lemon Rice Served",
+                "Match Score (%)": 66.67,
+                "Ingredients": "flour, soy sauce, lemon, rice",
+                "Dietary Filters": "Vegetarian, Vegan"
+            },
+            {
+                "Recipe Name": "Baked Lentils",
+                "Match Score (%)": 66.67,
+                "Ingredients": "lentils, cucumber, lemon, chicken",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Cheese n Chicken Pasta",
+                "Match Score (%)": 33.33,
+                "Ingredients": "pasta, cheese, chicken, avocado",
+                "Dietary Filters": null
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": {
+            "Recipe Name": "Lemon Rice Served",
+            "Match Score (%)": 75.0,
+            "Ingredients": "flour, soy sauce, lemon, rice",
+            "Dietary Filters": "Vegetarian, Vegan"
+        },
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Broccoli Sandwich",
+                "Ingredients": "broccoli, garlic, basil, olive oil",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "pasta",
+            "milk",
+            "olive oil"
+        ],
+        "Suggested Ingredients": [
+            "flour",
+            "cheese"
+        ],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Bell Pepper Curry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "bell pepper, milk, olive oil, avocado",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Ginger",
+                "Match Score (%)": 66.67,
+                "Ingredients": "ginger, carrot, milk, pasta",
+                "Dietary Filters": "Vegetarian"
+            },
+            {
+                "Recipe Name": "Beef and Broccoli",
+                "Match Score (%)": 66.67,
+                "Ingredients": "olive oil, broccoli, beef, milk",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Milk Salad",
+                "Match Score (%)": 66.67,
+                "Ingredients": "milk, carrot, cheese, pasta",
+                "Dietary Filters": "Vegetarian"
+            },
+            {
+                "Recipe Name": "Garlic Milk",
+                "Match Score (%)": 66.67,
+                "Ingredients": "milk, garlic, onion, olive oil",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": {
+            "Recipe Name": "Flour Curry",
+            "Match Score (%)": 50.0,
+            "Ingredients": "flour, chickpeas, onion, milk",
+            "Dietary Filters": "Vegetarian"
+        },
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Avocado Chicken",
+                "Ingredients": "avocado, basil, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "lentils",
+            "tomato",
+            "broccoli"
+        ],
+        "Suggested Ingredients": [
+            "basil",
+            "tofu",
+            "carrot",
+            "olive oil",
+            "spinach",
+            "cheese"
+        ],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Baked Onion",
+                "Match Score (%)": 66.67,
+                "Ingredients": "onion, broccoli, chicken, lentils",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Potato Stew",
+                "Match Score (%)": 66.67,
+                "Ingredients": "potato, lentils, broccoli, olive oil",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Ginger Stir-Fry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "ginger, broccoli, cucumber, lentils",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Tomato Rice",
+                "Match Score (%)": 66.67,
+                "Ingredients": "rice, tomato, spinach, lentils",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Tomato Stew",
+                "Match Score (%)": 66.67,
+                "Ingredients": "tomato, basil, lentils, egg",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": {
+            "Recipe Name": "Tomato Stew",
+            "Match Score (%)": 75.0,
+            "Ingredients": "tomato, basil, lentils, egg",
+            "Dietary Filters": "Vegetarian, Gluten-Free"
+        },
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Avocado Chicken",
+                "Ingredients": "avocado, basil, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "potato",
+            "butter",
+            "cheese"
+        ],
+        "Suggested Ingredients": [],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Cheese Pasta",
+                "Match Score (%)": 66.67,
+                "Ingredients": "cheese, butter, pasta, ginger",
+                "Dietary Filters": "Vegetarian"
+            },
+            {
+                "Recipe Name": "Flour Stew",
+                "Match Score (%)": 66.67,
+                "Ingredients": "flour, butter, carrot, potato",
+                "Dietary Filters": "Vegetarian"
+            },
+            {
+                "Recipe Name": "Pasta Sandwich",
+                "Match Score (%)": 66.67,
+                "Ingredients": "pasta, lentils, cheese, potato",
+                "Dietary Filters": "Vegetarian"
+            },
+            {
+                "Recipe Name": "Spinach Stir-Fry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "spinach, onion, cheese, potato",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Baked Butter",
+                "Match Score (%)": 66.67,
+                "Ingredients": "butter, cheese, soy sauce, ginger",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": null,
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Avocado Chicken",
+                "Ingredients": "avocado, basil, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "avocado",
+            "ginger",
+            "spinach"
+        ],
+        "Suggested Ingredients": [],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Avocado Curry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "avocado, ginger, tofu, soy sauce",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Vegetarian Baked Onion",
+                "Match Score (%)": 66.67,
+                "Ingredients": "onion, avocado, chickpeas, ginger",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Tofu and Chicken Salad",
+                "Match Score (%)": 66.67,
+                "Ingredients": "tofu, onion, avocado, ginger",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Carrot Curry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "carrot, butter, spinach, avocado",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Fried Ginger",
+                "Match Score (%)": 66.67,
+                "Ingredients": "ginger, flour, olive oil, spinach",
+                "Dietary Filters": "Vegetarian, Vegan"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": null,
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Broccoli Sandwich",
+                "Ingredients": "broccoli, garlic, basil, olive oil",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "onion",
+            "soy sauce",
+            "basil"
+        ],
+        "Suggested Ingredients": [],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Basil Curry",
+                "Match Score (%)": 100.0,
+                "Ingredients": "basil, onion, soy sauce, broccoli",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Avocado Chicken",
+                "Match Score (%)": 66.67,
+                "Ingredients": "avocado, basil, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Cheese Platter",
+                "Match Score (%)": 66.67,
+                "Ingredients": "cheese, basil, spinach, soy sauce",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Baked Cucumber",
+                "Match Score (%)": 66.67,
+                "Ingredients": "cucumber, onion, basil, avocado",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Quinoa Stew",
+                "Match Score (%)": 66.67,
+                "Ingredients": "quinoa, basil, lentils, soy sauce",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": null,
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Cheese n Chicken Pasta",
+                "Ingredients": "pasta, cheese, chicken, avocado",
+                "Dietary Filters": null
+            }
+        ]
+    },
+    {
+        "Query": [
+            "chickpeas",
+            "bell pepper",
+            "carrot"
+        ],
+        "Suggested Ingredients": [],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Fried Chicken Sandwich",
+                "Match Score (%)": 66.67,
+                "Ingredients": "chickpeas, carrot, flour, cucumber",
+                "Dietary Filters": "Vegetarian, Vegan"
+            },
+            {
+                "Recipe Name": "Cucumber Pasta",
+                "Match Score (%)": 66.67,
+                "Ingredients": "cucumber, bell pepper, carrot, sugar",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Stir-Fry Pasta with Vegetables",
+                "Match Score (%)": 66.67,
+                "Ingredients": "pasta, bell pepper, chickpeas, sugar",
+                "Dietary Filters": "Vegetarian, Vegan"
+            },
+            {
+                "Recipe Name": "Tofu Salad",
+                "Match Score (%)": 66.67,
+                "Ingredients": "tofu, chickpeas, cheese, carrot",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Chickpeas Stir-Fry",
+                "Match Score (%)": 33.33,
+                "Ingredients": "chickpeas, basil, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": null,
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Avocado Chicken",
+                "Ingredients": "avocado, basil, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "tofu",
+            "egg",
+            "olive oil"
+        ],
+        "Suggested Ingredients": [],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Olive Oil Soup",
+                "Match Score (%)": 66.67,
+                "Ingredients": "olive oil, lentils, chicken, egg",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Tofu Stew",
+                "Match Score (%)": 66.67,
+                "Ingredients": "tofu, quinoa, egg, flour",
+                "Dietary Filters": "Vegetarian"
+            },
+            {
+                "Recipe Name": "Tomato Stir-Fry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "tomato, spinach, olive oil, tofu",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Carrot Pasta",
+                "Match Score (%)": 66.67,
+                "Ingredients": "olive oil, egg, soy sauce, carrot",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Weight-loss Eggs",
+                "Match Score (%)": 66.67,
+                "Ingredients": "egg, lentils, olive oil, cheese",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": null,
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Avocado Chicken",
+                "Ingredients": "avocado, basil, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "tomato",
+            "chicken",
+            "garlic"
+        ],
+        "Suggested Ingredients": [
+            "basil",
+            "potato",
+            "olive oil",
+            "cheese",
+            "flour"
+        ],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Basil Stew",
+                "Match Score (%)": 66.67,
+                "Ingredients": "basil, chicken, cucumber, tomato",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Potato Curry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "potato, tomato, garlic, quinoa",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Sugar Pasta",
+                "Match Score (%)": 66.67,
+                "Ingredients": "sugar, tomato, garlic, lentils",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Tomato Stew",
+                "Match Score (%)": 66.67,
+                "Ingredients": "tomato, garlic, lemon, pasta",
+                "Dietary Filters": "Vegetarian, Vegan"
+            },
+            {
+                "Recipe Name": "Broccoli Sandwich",
+                "Match Score (%)": 33.33,
+                "Ingredients": "broccoli, garlic, basil, olive oil",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": {
+            "Recipe Name": "Basil Stew",
+            "Match Score (%)": 75.0,
+            "Ingredients": "basil, chicken, cucumber, tomato",
+            "Dietary Filters": "Gluten-Free"
+        },
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Cheese Platter",
+                "Ingredients": "cheese, basil, spinach, soy sauce",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "flour",
+            "potato",
+            "cucumber"
+        ],
+        "Suggested Ingredients": [],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Quinoa",
+                "Match Score (%)": 66.67,
+                "Ingredients": "quinoa, cucumber, chickpeas, potato",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Cucumber Soup",
+                "Match Score (%)": 66.67,
+                "Ingredients": "cucumber, ginger, flour, soy sauce",
+                "Dietary Filters": "Vegetarian, Vegan"
+            },
+            {
+                "Recipe Name": "Flour Stew",
+                "Match Score (%)": 66.67,
+                "Ingredients": "flour, butter, carrot, potato",
+                "Dietary Filters": "Vegetarian"
+            },
+            {
+                "Recipe Name": "Fried Chicken Sandwich",
+                "Match Score (%)": 66.67,
+                "Ingredients": "chickpeas, carrot, flour, cucumber",
+                "Dietary Filters": "Vegetarian, Vegan"
+            },
+            {
+                "Recipe Name": "Lemon Curry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "lemon, spinach, flour, potato",
+                "Dietary Filters": "Vegetarian, Vegan"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": null,
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Avocado Chicken",
+                "Ingredients": "avocado, basil, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "lemon",
+            "milk",
+            "pasta"
+        ],
+        "Suggested Ingredients": [
+            "flour",
+            "olive oil",
+            "cheese"
+        ],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Milk Salad",
+                "Match Score (%)": 66.67,
+                "Ingredients": "milk, lemon, potato, soy sauce",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Avocado Pasta",
+                "Match Score (%)": 66.67,
+                "Ingredients": "avocado, lemon, bell pepper, pasta",
+                "Dietary Filters": "Vegetarian, Vegan"
+            },
+            {
+                "Recipe Name": "Tomato Stew",
+                "Match Score (%)": 66.67,
+                "Ingredients": "tomato, garlic, lemon, pasta",
+                "Dietary Filters": "Vegetarian, Vegan"
+            },
+            {
+                "Recipe Name": "Rice Stir-Fry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "rice, chicken, lemon, milk",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Potato Stir-Fry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "potato, garlic, lemon, milk",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": {
+            "Recipe Name": "Lemon Rice Served",
+            "Match Score (%)": 50.0,
+            "Ingredients": "flour, soy sauce, lemon, rice",
+            "Dietary Filters": "Vegetarian, Vegan"
+        },
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Avocado Chicken",
+                "Ingredients": "avocado, basil, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "quinoa",
+            "butter",
+            "lentils"
+        ],
+        "Suggested Ingredients": [
+            "avocado",
+            "tofu",
+            "carrot",
+            "chickpeas",
+            "spinach",
+            "lemon"
+        ],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Quinoa Stew",
+                "Match Score (%)": 66.67,
+                "Ingredients": "quinoa, basil, lentils, soy sauce",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Quinoa Stir-Fry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "quinoa, basil, lentils, pasta",
+                "Dietary Filters": "Vegetarian, Vegan"
+            },
+            {
+                "Recipe Name": "Garlic Curry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "garlic, quinoa, butter, avocado",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Butter Sandwich",
+                "Match Score (%)": 66.67,
+                "Ingredients": "lentils, butter, pasta, tofu",
+                "Dietary Filters": "Vegetarian"
+            },
+            {
+                "Recipe Name": "Baked Beef",
+                "Match Score (%)": 66.67,
+                "Ingredients": "beef, lentils, quinoa, avocado",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": {
+            "Recipe Name": "Garlic Curry",
+            "Match Score (%)": 75.0,
+            "Ingredients": "garlic, quinoa, butter, avocado",
+            "Dietary Filters": "Vegetarian, Gluten-Free"
+        },
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Avocado Chicken",
+                "Ingredients": "avocado, basil, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "avocado",
+            "tomato",
+            "spinach"
+        ],
+        "Suggested Ingredients": [
+            "basil",
+            "olive oil",
+            "cheese"
+        ],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Sugar Pasta",
+                "Match Score (%)": 66.67,
+                "Ingredients": "sugar, avocado, beef, spinach",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Tomato Stir-Fry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "tomato, spinach, olive oil, tofu",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Baked Sugar",
+                "Match Score (%)": 66.67,
+                "Ingredients": "sugar, tomato, avocado, olive oil",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Tomato Rice",
+                "Match Score (%)": 66.67,
+                "Ingredients": "rice, tomato, spinach, lentils",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Carrot Curry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "carrot, butter, spinach, avocado",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": {
+            "Recipe Name": "Avocado Chicken",
+            "Match Score (%)": 50.0,
+            "Ingredients": "avocado, basil, soy sauce, chicken",
+            "Dietary Filters": "Gluten-Free"
+        },
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Broccoli Sandwich",
+                "Ingredients": "broccoli, garlic, basil, olive oil",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "basil",
+            "sugar",
+            "rice"
+        ],
+        "Suggested Ingredients": [],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Spinach Rice",
+                "Match Score (%)": 66.67,
+                "Ingredients": "olive oil, spinach, rice, basil",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Tofu",
+                "Match Score (%)": 66.67,
+                "Ingredients": "tofu, rice, basil, avocado",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Milk Salad",
+                "Match Score (%)": 66.67,
+                "Ingredients": "milk, quinoa, basil, rice",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Basil Stew",
+                "Match Score (%)": 33.33,
+                "Ingredients": "basil, chicken, cucumber, tomato",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Avocado Chicken",
+                "Match Score (%)": 33.33,
+                "Ingredients": "avocado, basil, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": null,
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Cheese n Chicken Pasta",
+                "Ingredients": "pasta, cheese, chicken, avocado",
+                "Dietary Filters": null
+            }
+        ]
+    },
+    {
+        "Query": [
+            "cheese",
+            "soy sauce",
+            "onion"
+        ],
+        "Suggested Ingredients": [],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Cheese Platter",
+                "Match Score (%)": 66.67,
+                "Ingredients": "cheese, basil, spinach, soy sauce",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Basil Curry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "basil, onion, soy sauce, broccoli",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Spinach Stir-Fry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "spinach, onion, cheese, potato",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Baked Butter",
+                "Match Score (%)": 66.67,
+                "Ingredients": "butter, cheese, soy sauce, ginger",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Baked Bell Pepper",
+                "Match Score (%)": 66.67,
+                "Ingredients": "bell pepper, basil, cheese, onion",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": null,
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Broccoli Sandwich",
+                "Ingredients": "broccoli, garlic, basil, olive oil",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "chicken",
+            "chickpeas",
+            "carrot"
+        ],
+        "Suggested Ingredients": [
+            "flour",
+            "garlic",
+            "potato"
+        ],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Chickpeas Stir-Fry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "chickpeas, basil, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Chicken Bake",
+                "Match Score (%)": 66.67,
+                "Ingredients": "chicken, avocado, milk, chickpeas",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Tofu Salad",
+                "Match Score (%)": 66.67,
+                "Ingredients": "tofu, chickpeas, cheese, carrot",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Fried Chicken Sandwich",
+                "Match Score (%)": 66.67,
+                "Ingredients": "chickpeas, carrot, flour, cucumber",
+                "Dietary Filters": "Vegetarian, Vegan"
+            },
+            {
+                "Recipe Name": "Broccoli with Meat",
+                "Match Score (%)": 66.67,
+                "Ingredients": "broccoli, chicken, beef, chickpeas",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": {
+            "Recipe Name": "Fried Chicken Sandwich",
+            "Match Score (%)": 75.0,
+            "Ingredients": "chickpeas, carrot, flour, cucumber",
+            "Dietary Filters": "Vegetarian, Vegan"
+        },
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Broccoli Sandwich",
+                "Ingredients": "broccoli, garlic, basil, olive oil",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "potato",
+            "bell pepper",
+            "garlic"
+        ],
+        "Suggested Ingredients": [],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Potato Stir-Fry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "potato, garlic, lemon, milk",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Potato Curry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "potato, tomato, garlic, quinoa",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Bell Pepper Salad",
+                "Match Score (%)": 66.67,
+                "Ingredients": "bell pepper, potato, lemon, lentils",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Milk Curry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "milk, olive oil, garlic, bell pepper",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Broccoli Sandwich",
+                "Match Score (%)": 33.33,
+                "Ingredients": "broccoli, garlic, basil, olive oil",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": null,
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Avocado Chicken",
+                "Ingredients": "avocado, basil, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "olive oil",
+            "broccoli",
+            "flour"
+        ],
+        "Suggested Ingredients": [],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Broccoli Sandwich",
+                "Match Score (%)": 66.67,
+                "Ingredients": "broccoli, garlic, basil, olive oil",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Broccoli Pasta",
+                "Match Score (%)": 66.67,
+                "Ingredients": "broccoli, olive oil, cheese, cucumber",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Butter and Soy Sauce",
+                "Match Score (%)": 66.67,
+                "Ingredients": "butter, soy sauce, broccoli, flour",
+                "Dietary Filters": "Vegetarian"
+            },
+            {
+                "Recipe Name": "Baked Beef II",
+                "Match Score (%)": 66.67,
+                "Ingredients": "olive oil, cucumber, beef, broccoli",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Beef and Broccoli",
+                "Match Score (%)": 66.67,
+                "Ingredients": "olive oil, broccoli, beef, milk",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": null,
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Avocado Chicken",
+                "Ingredients": "avocado, basil, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "tomato",
+            "lemon",
+            "tofu"
+        ],
+        "Suggested Ingredients": [
+            "basil",
+            "olive oil",
+            "cheese"
+        ],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Beef Sandwich",
+                "Match Score (%)": 66.67,
+                "Ingredients": "beef, tofu, lemon, ginger",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Quinoa Curry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "quinoa, tofu, lemon, cheese",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Baked Sugar",
+                "Match Score (%)": 66.67,
+                "Ingredients": "sugar, bell pepper, lemon, tofu",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Tomato Stir-Fry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "tomato, spinach, olive oil, tofu",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Spinach Pasta",
+                "Match Score (%)": 66.67,
+                "Ingredients": "spinach, lemon, tofu, bell pepper",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": {
+            "Recipe Name": "Basil Stew",
+            "Match Score (%)": 50.0,
+            "Ingredients": "basil, chicken, cucumber, tomato",
+            "Dietary Filters": "Gluten-Free"
+        },
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Avocado Chicken",
+                "Ingredients": "avocado, basil, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "basil",
+            "spinach",
+            "rice"
+        ],
+        "Suggested Ingredients": [],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Spinach Rice",
+                "Match Score (%)": 100.0,
+                "Ingredients": "olive oil, spinach, rice, basil",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Cheese Platter",
+                "Match Score (%)": 66.67,
+                "Ingredients": "cheese, basil, spinach, soy sauce",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Tofu",
+                "Match Score (%)": 66.67,
+                "Ingredients": "tofu, rice, basil, avocado",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Basil Curry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "basil, lemon, flour, spinach",
+                "Dietary Filters": "Vegetarian, Vegan"
+            },
+            {
+                "Recipe Name": "Spinach Stir-Fry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "spinach, basil, olive oil, onion",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": null,
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Cheese n Chicken Pasta",
+                "Ingredients": "pasta, cheese, chicken, avocado",
+                "Dietary Filters": null
+            }
+        ]
+    },
+    {
+        "Query": [
+            "avocado",
+            "ginger",
+            "broccoli"
+        ],
+        "Suggested Ingredients": [],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Avocado Curry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "avocado, ginger, tofu, soy sauce",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Vegetarian Baked Onion",
+                "Match Score (%)": 66.67,
+                "Ingredients": "onion, avocado, chickpeas, ginger",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Tofu and Chicken Salad",
+                "Match Score (%)": 66.67,
+                "Ingredients": "tofu, onion, avocado, ginger",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Bell Pepper Soup",
+                "Match Score (%)": 66.67,
+                "Ingredients": "bell pepper, broccoli, ginger, beef",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Ginger Stir-Fry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "ginger, broccoli, cucumber, lentils",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": null,
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Basil Stew",
+                "Ingredients": "basil, chicken, cucumber, tomato",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "butter",
+            "pasta",
+            "chickpeas"
+        ],
+        "Suggested Ingredients": [
+            "flour",
+            "olive oil",
+            "cheese"
+        ],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Stir-Fry Pasta with Vegetables",
+                "Match Score (%)": 66.67,
+                "Ingredients": "pasta, bell pepper, chickpeas, sugar",
+                "Dietary Filters": "Vegetarian, Vegan"
+            },
+            {
+                "Recipe Name": "Cheese Pasta",
+                "Match Score (%)": 66.67,
+                "Ingredients": "cheese, butter, pasta, ginger",
+                "Dietary Filters": "Vegetarian"
+            },
+            {
+                "Recipe Name": "Broccoli Sandwich",
+                "Match Score (%)": 66.67,
+                "Ingredients": "broccoli, butter, chickpeas, beef",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Onion Curry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "onion, pasta, butter, quinoa",
+                "Dietary Filters": "Vegetarian"
+            },
+            {
+                "Recipe Name": "Bell Pepper Salad",
+                "Match Score (%)": 66.67,
+                "Ingredients": "bell pepper, cucumber, pasta, butter",
+                "Dietary Filters": "Vegetarian"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": {
+            "Recipe Name": "Flour Curry",
+            "Match Score (%)": 50.0,
+            "Ingredients": "flour, chickpeas, onion, milk",
+            "Dietary Filters": "Vegetarian"
+        },
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Avocado Chicken",
+                "Ingredients": "avocado, basil, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "lentils",
+            "potato",
+            "soy sauce"
+        ],
+        "Suggested Ingredients": [
+            "tofu",
+            "carrot",
+            "spinach"
+        ],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Quinoa Stew",
+                "Match Score (%)": 66.67,
+                "Ingredients": "quinoa, basil, lentils, soy sauce",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Milk Salad",
+                "Match Score (%)": 66.67,
+                "Ingredients": "milk, lemon, potato, soy sauce",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Pasta Sandwich",
+                "Match Score (%)": 66.67,
+                "Ingredients": "pasta, lentils, cheese, potato",
+                "Dietary Filters": "Vegetarian"
+            },
+            {
+                "Recipe Name": "Cucumber Stir-Fry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "cucumber, olive oil, lentils, soy sauce",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Bell Pepper Salad",
+                "Match Score (%)": 66.67,
+                "Ingredients": "bell pepper, potato, lemon, lentils",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": {
+            "Recipe Name": "Butter Sandwich",
+            "Match Score (%)": 50.0,
+            "Ingredients": "lentils, butter, pasta, tofu",
+            "Dietary Filters": "Vegetarian"
+        },
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Broccoli Sandwich",
+                "Ingredients": "broccoli, garlic, basil, olive oil",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "egg",
+            "chicken",
+            "tomato"
+        ],
+        "Suggested Ingredients": [
+            "basil",
+            "potato",
+            "olive oil",
+            "garlic",
+            "cheese",
+            "flour"
+        ],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Basil Stew",
+                "Match Score (%)": 66.67,
+                "Ingredients": "basil, chicken, cucumber, tomato",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Olive Oil Soup",
+                "Match Score (%)": 66.67,
+                "Ingredients": "olive oil, lentils, chicken, egg",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Sugar Chicken",
+                "Match Score (%)": 66.67,
+                "Ingredients": "chicken, sugar, egg, lemon",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Tomato Stew",
+                "Match Score (%)": 66.67,
+                "Ingredients": "tomato, basil, lentils, egg",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Spinach Sandwich",
+                "Match Score (%)": 66.67,
+                "Ingredients": "spinach, tomato, chickpeas, egg",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": {
+            "Recipe Name": "Basil Stew",
+            "Match Score (%)": 75.0,
+            "Ingredients": "basil, chicken, cucumber, tomato",
+            "Dietary Filters": "Gluten-Free"
+        },
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Broccoli Sandwich",
+                "Ingredients": "broccoli, garlic, basil, olive oil",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "cucumber",
+            "cheese",
+            "garlic"
+        ],
+        "Suggested Ingredients": [],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Broccoli Pasta",
+                "Match Score (%)": 66.67,
+                "Ingredients": "broccoli, olive oil, cheese, cucumber",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Cheese Curry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "cheese, quinoa, olive oil, cucumber",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Cheese Platter",
+                "Match Score (%)": 33.33,
+                "Ingredients": "cheese, basil, spinach, soy sauce",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Cheese n Chicken Pasta",
+                "Match Score (%)": 33.33,
+                "Ingredients": "pasta, cheese, chicken, avocado",
+                "Dietary Filters": null
+            },
+            {
+                "Recipe Name": "Broccoli Sandwich",
+                "Match Score (%)": 33.33,
+                "Ingredients": "broccoli, garlic, basil, olive oil",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": null,
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Avocado Chicken",
+                "Ingredients": "avocado, basil, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "milk",
+            "basil",
+            "bell pepper"
+        ],
+        "Suggested Ingredients": [],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Bell Pepper Curry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "bell pepper, milk, olive oil, avocado",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Milk Salad",
+                "Match Score (%)": 66.67,
+                "Ingredients": "milk, bell pepper, onion, ginger",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Baked Bell Pepper",
+                "Match Score (%)": 66.67,
+                "Ingredients": "bell pepper, basil, cheese, onion",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Baked Chicken",
+                "Match Score (%)": 66.67,
+                "Ingredients": "chicken, bell pepper, milk, sugar",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Milk Curry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "milk, olive oil, garlic, bell pepper",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": null,
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Cheese n Chicken Pasta",
+                "Ingredients": "pasta, cheese, chicken, avocado",
+                "Dietary Filters": null
+            }
+        ]
+    },
+    {
+        "Query": [
+            "sugar",
+            "avocado",
+            "carrot"
+        ],
+        "Suggested Ingredients": [],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Lentils Pasta",
+                "Match Score (%)": 66.67,
+                "Ingredients": "lentils, carrot, avocado, basil",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Carrot Curry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "carrot, butter, spinach, avocado",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Sugar Pasta",
+                "Match Score (%)": 66.67,
+                "Ingredients": "sugar, avocado, beef, spinach",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Cucumber Pasta",
+                "Match Score (%)": 66.67,
+                "Ingredients": "cucumber, bell pepper, carrot, sugar",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Avocado Sandwich",
+                "Match Score (%)": 66.67,
+                "Ingredients": "avocado, sugar, potato, lemon",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": null,
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Broccoli Sandwich",
+                "Ingredients": "broccoli, garlic, basil, olive oil",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "onion",
+            "flour",
+            "quinoa"
+        ],
+        "Suggested Ingredients": [
+            "lemon",
+            "avocado",
+            "chickpeas"
+        ],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Onion Curry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "onion, pasta, butter, quinoa",
+                "Dietary Filters": "Vegetarian"
+            },
+            {
+                "Recipe Name": "Flour Curry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "flour, chickpeas, onion, milk",
+                "Dietary Filters": "Vegetarian"
+            },
+            {
+                "Recipe Name": "Baked Lentils",
+                "Match Score (%)": 66.67,
+                "Ingredients": "lentils, onion, olive oil, quinoa",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Tofu Stew",
+                "Match Score (%)": 66.67,
+                "Ingredients": "tofu, quinoa, egg, flour",
+                "Dietary Filters": "Vegetarian"
+            },
+            {
+                "Recipe Name": "Garlic Rice Stew",
+                "Match Score (%)": 66.67,
+                "Ingredients": "flour, garlic, onion, rice",
+                "Dietary Filters": "Vegetarian, Vegan"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": {
+            "Recipe Name": "Lemon Rice Served",
+            "Match Score (%)": 50.0,
+            "Ingredients": "flour, soy sauce, lemon, rice",
+            "Dietary Filters": "Vegetarian, Vegan"
+        },
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Avocado Chicken",
+                "Ingredients": "avocado, basil, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "olive oil",
+            "spinach",
+            "broccoli"
+        ],
+        "Suggested Ingredients": [],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Broccoli Sandwich",
+                "Match Score (%)": 66.67,
+                "Ingredients": "broccoli, garlic, basil, olive oil",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Spinach Rice",
+                "Match Score (%)": 66.67,
+                "Ingredients": "olive oil, spinach, rice, basil",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Beef and Broccoli",
+                "Match Score (%)": 66.67,
+                "Ingredients": "olive oil, broccoli, beef, milk",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Olive Oil Sandwich",
+                "Match Score (%)": 66.67,
+                "Ingredients": "olive oil, broccoli, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Spinach Puree",
+                "Match Score (%)": 66.67,
+                "Ingredients": "spinach, tofu, chicken, olive oil",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": null,
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Avocado Chicken",
+                "Ingredients": "avocado, basil, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "lemon",
+            "butter",
+            "basil"
+        ],
+        "Suggested Ingredients": [],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Basil Stir-Fry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "basil, tofu, butter, cucumber",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Basil Curry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "basil, lemon, flour, spinach",
+                "Dietary Filters": "Vegetarian, Vegan"
+            },
+            {
+                "Recipe Name": "Butter Stir-Fry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "butter, soy sauce, bell pepper, lemon",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Basil Stew",
+                "Match Score (%)": 33.33,
+                "Ingredients": "basil, chicken, cucumber, tomato",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Avocado Chicken",
+                "Match Score (%)": 33.33,
+                "Ingredients": "avocado, basil, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": null,
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Cheese n Chicken Pasta",
+                "Ingredients": "pasta, cheese, chicken, avocado",
+                "Dietary Filters": null
+            }
+        ]
+    },
+    {
+        "Query": [
+            "rice",
+            "chicken",
+            "potato"
+        ],
+        "Suggested Ingredients": [
+            "flour",
+            "garlic"
+        ],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Rice Stir-Fry",
+                "Match Score (%)": 66.67,
+                "Ingredients": "rice, chicken, lemon, milk",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Avocado Chicken",
+                "Match Score (%)": 33.33,
+                "Ingredients": "avocado, basil, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Cheese n Chicken Pasta",
+                "Match Score (%)": 33.33,
+                "Ingredients": "pasta, cheese, chicken, avocado",
+                "Dietary Filters": null
+            },
+            {
+                "Recipe Name": "Chickpeas Stir-Fry",
+                "Match Score (%)": 33.33,
+                "Ingredients": "chickpeas, basil, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            },
+            {
+                "Recipe Name": "Baked Lentils",
+                "Match Score (%)": 33.33,
+                "Ingredients": "lentils, cucumber, lemon, chicken",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": {
+            "Recipe Name": "Chickpeas Sandwich",
+            "Match Score (%)": 50.0,
+            "Ingredients": "chickpeas, flour, beef, rice",
+            "Dietary Filters": null
+        },
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Broccoli Sandwich",
+                "Ingredients": "broccoli, garlic, basil, olive oil",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            }
+        ]
+    },
+    {
+        "Query": [
+            "cheese",
+            "tomato",
+            "bell pepper"
+        ],
+        "Suggested Ingredients": [
+            "basil",
+            "olive oil"
+        ],
+        "Top Matching Recipes": [
+            {
+                "Recipe Name": "Avocado Sandwich",
+                "Match Score (%)": 66.67,
+                "Ingredients": "avocado, bell pepper, tofu, cheese",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Tomato Salad",
+                "Match Score (%)": 66.67,
+                "Ingredients": "tomato, quinoa, bell pepper, cucumber",
+                "Dietary Filters": "Vegetarian, Vegan, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Bell Pepper Sandwich",
+                "Match Score (%)": 66.67,
+                "Ingredients": "bell pepper, cheese, onion, ginger",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Bell Pepper Pasta",
+                "Match Score (%)": 66.67,
+                "Ingredients": "bell pepper, soy sauce, cheese, sugar",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            },
+            {
+                "Recipe Name": "Baked Bell Pepper",
+                "Match Score (%)": 66.67,
+                "Ingredients": "bell pepper, basil, cheese, onion",
+                "Dietary Filters": "Vegetarian, Gluten-Free"
+            }
+        ],
+        "Top Recipe Using Suggested Ingredient": {
+            "Recipe Name": "Baked Bell Pepper",
+            "Match Score (%)": 75.0,
+            "Ingredients": "bell pepper, basil, cheese, onion",
+            "Dietary Filters": "Vegetarian, Gluten-Free"
+        },
+        "Non-Relevant Dish (0% Match)": [
+            {
+                "Recipe Name": "Avocado Chicken",
+                "Ingredients": "avocado, basil, soy sauce, chicken",
+                "Dietary Filters": "Gluten-Free"
+            }
+        ]
+    }
+]
